@@ -2,17 +2,18 @@
 
 # PRITHVIN P
 
-### SOFTWARE DEVELOPER · WEB TECHNOLOGY · DATA ANALYTICS · AI/ML
+### SOFTWARE DEVELOPMENT · WEB TECHNOLOGIES · DATA ANALYTICS · AI/ML
 
 Building practical applications. Exploring data. Creating digital experiences.
 
 <br>
 
 <a href="https://github.com/Prithvin-P">
-  <img src="https://img.shields.io/badge/GitHub-Prithvin--P-0B0B0F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GITHUB-PRITHVIN--P-0B0B0F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+&nbsp;
 <a href="mailto:prithvinp42@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-173EA5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-173EA5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br><br>
@@ -27,37 +28,58 @@ I'm **Prithvin P**, an IT graduate interested in software development, modern we
 
 I enjoy building practical applications, exploring new technologies, solving programming problems, and discovering meaningful insights from data.
 
-* **Interests:** Software Development, Web Development, Data Analytics, AI/ML
-* **Currently building:** Traffic Sign Classification using Deep Learning
-* **Currently learning:** Data Analytics, Python, NumPy, and data visualization
-* **Exploring:** Modern frontend development and intelligent applications
-* **Career goal:** To contribute to real-world projects and grow as a software developer and data professional.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**AREAS OF INTEREST**
+
+Software Development
+Web Development
+Data Analytics
+Artificial Intelligence / ML
+
+</td>
+<td width="50%" valign="top">
+
+**CURRENT JOURNEY**
+
+Building a Traffic Sign Classification application
+Learning Python and NumPy for data analytics
+Exploring modern frontend development
+Developing practical software projects
+
+</td>
+</tr>
+</table>
+
+**Career goal:** To contribute to real-world projects and grow as a software developer and data professional.
 
 ---
 
 ## TECHNICAL EXPERTISE
 
-### PROGRAMMING & WEB DEVELOPMENT
+### 01 — PROGRAMMING & WEB DEVELOPMENT
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,vite&theme=dark" alt="Programming and web development">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,vite&theme=dark" alt="Programming and web development technologies">
 </div>
 
-### AI & MACHINE LEARNING
+### 02 — AI & MACHINE LEARNING
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="AI and machine learning">
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="AI and machine learning technologies">
 </div>
 
-### DATA ANALYTICS — CURRENT LEARNING
+### 03 — DATA ANALYTICS · CURRENTLY LEARNING
 
 <p>
-<img src="https://img.shields.io/badge/Python-Currently_Learning-173EA5?style=for-the-badge&logo=python&logoColor=white" alt="Python learning">
-<img src="https://img.shields.io/badge/NumPy-Currently_Learning-173EA5?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy learning">
-<img src="https://img.shields.io/badge/Data_Analytics-In_Progress-173EA5?style=for-the-badge" alt="Data analytics learning">
+<img src="https://img.shields.io/badge/PYTHON-LEARNING-101010?style=for-the-badge&logo=python&logoColor=4169E1" alt="Python learning">
+<img src="https://img.shields.io/badge/NUMPY-LEARNING-101010?style=for-the-badge&logo=numpy&logoColor=4169E1" alt="NumPy learning">
+<img src="https://img.shields.io/badge/DATA_ANALYTICS-IN_PROGRESS-173EA5?style=for-the-badge" alt="Data analytics learning">
 </p>
 
-**Learning roadmap**
+**Learning areas**
 
 * Data analysis fundamentals.
 * Python for data analysis.
@@ -66,7 +88,7 @@ I enjoy building practical applications, exploring new technologies, solving pro
 * Business analytics and interpreting results.
 * Data visualization and reporting.
 
-### DATABASES & DEVELOPER TOOLS
+### 04 — DATABASES & DEVELOPER TOOLS
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&theme=dark" alt="Databases and developer tools">
@@ -76,57 +98,72 @@ I enjoy building practical applications, exploring new technologies, solving pro
 
 ## FEATURED PROJECTS
 
+*Selected work across deep learning, web development, customer management, and cybersecurity.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 01 / TRAFFIC SIGN CLASSIFICATION
 
-**Deep Learning · Computer Vision · Flask**
+**DEEP LEARNING · COMPUTER VISION**
 
 A deep learning application that classifies traffic signs from images using a trained Convolutional Neural Network.
 
-**Highlights**
+**PROJECT HIGHLIGHTS**
 
-* Predicts traffic sign categories from uploaded images.
+* Predicts traffic sign categories from images.
 * Uses a TensorFlow/Keras classification model.
 * Processes images using OpenCV.
 * Provides a Flask-based prediction interface.
-* Displays predicted classes with confidence scores.
+* Displays predictions with confidence scores.
 
-**Technology**
+**TECHNOLOGY**
 
-`Python` `TensorFlow` `Keras` `OpenCV` `Flask`
+`Python` `TensorFlow` `Keras`
+`OpenCV` `Flask`
 
-**Repository:** Add 
+**PROJECT LINK**
 
----
+Add your actual repository URL.
 
-### 02 / PERSONAL DEVELOPER PORTFOLIO
+</td>
+<td width="50%" valign="top">
 
-**Frontend Development · UI Design**
+### 02 / DEVELOPER PORTFOLIO
+
+**FRONTEND · UI DESIGN**
 
 A personal website showcasing my technical interests, projects, and development journey.
 
-**Highlights**
+**PROJECT HIGHLIGHTS**
 
 * Modern visual design.
 * Interactive user interface.
 * Responsive layouts.
 * Dedicated project and contact sections.
-* Focus on engaging visual experiences.
+* Engaging visual experiences.
 
-**Technology**
+**TECHNOLOGY**
 
 `HTML` `CSS` `JavaScript`
 
-**Live website:** Add 
+**LIVE WEBSITE**
 
----
+Add your published portfolio URL.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 03 / PSR TEXTILE WEBSITE
 
-**React · Frontend Engineering · UI Design**
+**REACT · FRONTEND ENGINEERING**
 
-A modern textile website focused on premium product presentation, elegant styling, and interactive browsing experiences.
+A modern textile website focused on premium product presentation and a refined browsing experience.
 
-**Highlights**
+**PROJECT HIGHLIGHTS**
 
 * Premium product showcase.
 * Interactive product cards.
@@ -134,79 +171,134 @@ A modern textile website focused on premium product presentation, elegant stylin
 * Smooth interface interactions.
 * Responsive website layout.
 
-**Technology**
+**TECHNOLOGY**
 
 `React` `Vite` `JavaScript` `CSS`
 
-**Repository:** Add 
+**PROJECT LINK**
 
----
----
+Add your actual repository URL.
 
-### 04 / CUSTOMER RELATIONSHIP MANAGEMENT SYSTEM
+</td>
+<td width="50%" valign="top">
 
-**Software Development · Customer Management**
+### 04 / CUSTOMER RELATIONSHIP MANAGEMENT
 
-A software project focused on organizing customer information and supporting customer relationship management.
+**SOFTWARE DEVELOPMENT · CUSTOMER MANAGEMENT**
 
-**Project highlights**
+A project focused on organizing customer information and supporting customer relationship management.
 
-* Organizes and manages customer information.
-* Supports structured customer record management.
-* Aims to simplify customer information tracking.
-* Demonstrates practical software development concepts.
+**PROJECT HIGHLIGHTS**
 
-**Technology:** Add the actual programming languages, frameworks, and database used in your project.
+* Customer information management.
+* Structured customer records.
+* Easier information tracking.
+* Practical software development concepts.
 
-**Repository:** Add 
+**TECHNOLOGY**
 
----
+Add the actual languages, frameworks, and database used.
+
+**PROJECT LINK**
+
+Add your actual repository URL.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 05 / ONLINE INTRUSION ALERT AGGREGATION
 
-**Cybersecurity · Alert Management · Data Processing**
+**CYBERSECURITY · ALERT MANAGEMENT · DATA PROCESSING**
 
 A project focused on collecting and organizing intrusion alerts to make security-related information easier to monitor and review.
 
-**Project highlights**
+**PROJECT HIGHLIGHTS**
 
-* Focuses on aggregating intrusion alerts.
-* Organizes security alerts for easier review.
-* Supports monitoring of intrusion-related events.
-* Demonstrates concepts related to security event management.
+* Aggregates intrusion-related alerts.
+* Organizes security alerts for review.
+* Focuses on monitoring intrusion events.
+* Explores security event management concepts.
 
-**Technology:** Add the actual programming languages, frameworks, and tools used in your project.
+**TECHNOLOGY**
 
-**Repository:** Add 
+Add the actual programming languages, frameworks, and tools used.
+
+**PROJECT LINK**
+
+Add your actual repository URL.
+
+</td>
+</tr>
+</table>
+
+---
 
 ## DATA ANALYTICS LEARNING JOURNEY
 
-I'm developing my data analytics skills through structured learning and practical exercises.
+<div align="center">
 
-**Current learning areas**
+### LEARNING THROUGH DATA. THINKING THROUGH INSIGHTS.
 
-* Understanding datasets and data types.
-* Working with numerical data using Python and NumPy.
-* Calculating revenue and analyzing business performance.
-* Comparing product and city sales.
-* Identifying patterns and interpreting results.
-* Building a foundation for data visualization and reporting.
+</div>
 
-**Next steps**
+I'm developing my data analytics skills through structured learning and practical exercises using business examples and datasets.
 
-`Pandas` → `SQL` → `Excel` → `Power BI` → `Data Visualization`
+**CURRENT LEARNING AREAS**
+
+| Area                | Learning focus                                  |
+| ------------------- | ----------------------------------------------- |
+| Python              | Programming fundamentals for data analysis      |
+| NumPy               | Numerical computing and working with arrays     |
+| Data exploration    | Understanding datasets and identifying patterns |
+| Business analytics  | Revenue and business performance analysis       |
+| Data interpretation | Turning results into meaningful insights        |
+| Data visualization  | Learning to communicate findings clearly        |
+
+**LEARNING ROADMAP**
+
+`Python` → `NumPy` → `Pandas` → `SQL` → `Excel` → `Power BI`
+
+*Pandas, SQL, Excel, and Power BI are future learning goals, not claims of current proficiency.*
 
 ---
 
 ## CURRENT FOCUS
 
-* Building practical software and web applications.
-* Improving programming and problem-solving skills.
-* Learning Data Analytics through hands-on exercises.
-* Exploring Python, NumPy, and numerical computing.
-* Developing machine learning applications.
-* Improving frontend design and user experience.
-* Publishing projects and documenting my progress.
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+**01**
+
+### SOFTWARE DEVELOPMENT
+
+Building practical applications and improving programming skills.
+
+</td>
+<td align="center" width="33%">
+
+**02**
+
+### DATA ANALYTICS
+
+Learning to explore data, understand patterns, and interpret results.
+
+</td>
+<td align="center" width="33%">
+
+**03**
+
+### AI / MACHINE LEARNING
+
+Developing deep learning projects and exploring intelligent applications.
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -226,15 +318,18 @@ I'm developing my data analytics skills through structured learning and practica
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=173EA5&height=3" width="100%" alt="Blue divider">
 
+<br>
+
 ### LET'S BUILD SOMETHING MEANINGFUL.
 
-**Software Development · Data Analytics · Artificial Intelligence**
+**SOFTWARE DEVELOPMENT · DATA ANALYTICS · ARTIFICIAL INTELLIGENCE**
 
 <br>
 
 <a href="https://github.com/Prithvin-P">
   <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-173EA5?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub">
 </a>
+&nbsp;
 <a href="mailto:prithvinp42@gmail.com">
   <img src="https://img.shields.io/badge/GET_IN_TOUCH-0B0B0F?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch">
 </a>
@@ -242,5 +337,9 @@ I'm developing my data analytics skills through structured learning and practica
 <br><br>
 
 <sub>Focused on learning, building, and continuous improvement.</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:173EA5,50:101827,100:050505&height=100&section=footer" width="100%" alt="Blue footer banner">
 
 </div>
