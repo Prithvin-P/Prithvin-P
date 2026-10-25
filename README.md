@@ -1,142 +1,211 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:071B49,100:0047AB&height=180&section=header&text=PRITHVIN%20P&fontSize=55&fontColor=FFFFFF&fontAlignY=45&desc=SOFTWARE%20DEVELOPER%20%7C%20WEB%20DEVELOPMENT%20%7C%20AI%2FML&descSize=13&descAlignY=70" alt="Prithvin P"/>
+# PRITHVIN P
+
+### SOFTWARE DEVELOPMENT · WEB TECHNOLOGIES · DATA ANALYTICS · AI/ML
+
+Building practical applications. Exploring data. Creating digital experiences.
 
 <br>
 
-### SOFTWARE DEVELOPMENT · WEB TECHNOLOGIES · ARTIFICIAL INTELLIGENCE
+<a href="https://github.com/Prithvin-P">
+  <img src="https://img.shields.io/badge/GitHub-Prithvin--P-0B0B0F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="mailto:prithvinp42@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-173EA5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=173EA5&height=3" width="100%" alt="Blue divider">
+
+</div>
+
+## ABOUT ME
+
+I'm **Prithvin P**, an IT graduate interested in software development, modern web technologies, artificial intelligence, and data analytics.
+
+I enjoy building practical applications, exploring new technologies, solving programming problems, and discovering meaningful insights from data.
+
+* **Interests:** Software Development, Web Development, Data Analytics, AI/ML
+* **Currently building:** Traffic Sign Classification using Deep Learning
+* **Currently learning:** Data Analytics, Python, NumPy, and data visualization
+* **Exploring:** Modern frontend development and intelligent applications
+* **Career goal:** To contribute to real-world projects and grow as a software developer and data professional.
+
+---
+
+## TECHNICAL EXPERTISE
+
+### PROGRAMMING & WEB DEVELOPMENT
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,vite&theme=dark" alt="Programming and web development">
+</div>
+
+### AI & MACHINE LEARNING
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="AI and machine learning">
+</div>
+
+### DATA ANALYTICS — CURRENT LEARNING
 
 <p>
-  <img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-0047AB?style=flat-square" alt="Open to opportunities"/>
-  <img src="https://img.shields.io/badge/BASED%20IN-INDIA-111111?style=flat-square" alt="India"/>
+<img src="https://img.shields.io/badge/Python-Currently_Learning-173EA5?style=for-the-badge&logo=python&logoColor=white" alt="Python learning">
+<img src="https://img.shields.io/badge/NumPy-Currently_Learning-173EA5?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy learning">
+<img src="https://img.shields.io/badge/Data_Analytics-In_Progress-173EA5?style=for-the-badge" alt="Data analytics learning">
 </p>
 
-[GitHub](https://github.com/Prithvin-P)   •   [Email](mailto:prithvinp42@gmail.com)
+**Learning roadmap**
 
+* Data analysis fundamentals.
+* Python for data analysis.
+* NumPy and numerical computing.
+* Data exploration and pattern identification.
+* Business analytics and interpreting results.
+* Data visualization and reporting.
+
+### DATABASES & DEVELOPER TOOLS
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&theme=dark" alt="Databases and developer tools">
 </div>
 
 ---
 
-## About Me
+## FEATURED PROJECTS
 
-I'm **Prithvin P**, an IT graduate interested in building practical software applications and modern web experiences.
-
-I enjoy exploring technologies, solving programming problems, and turning ideas into working projects.
-
-* **Interests:** Software Development, Web Development, Python, AI/ML
-* **Currently building:** Traffic Sign Classification using Deep Learning
-* **Exploring:** Modern frontend development and intelligent applications
-* **Career goal:** To grow as a software developer and contribute to real-world projects
-
----
-
-## Technical Expertise
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Programming
-
-<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Python, Java and JavaScript"/>
-
-</td>
-<td width="50%" valign="top">
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" alt="HTML, CSS, React and Vite"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,flask&theme=dark" alt="TensorFlow, OpenCV and Flask"/>
-
-</td>
-<td width="50%" valign="top">
-
-### Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## Selected Projects
-
-### 01 — Traffic Sign Classification
+### 01 / TRAFFIC SIGN CLASSIFICATION
 
 **Deep Learning · Computer Vision · Flask**
 
-A web application that classifies traffic signs using a Convolutional Neural Network.
+A deep learning application that classifies traffic signs from images using a trained Convolutional Neural Network.
 
-* Predicts traffic sign categories from images.
+**Highlights**
+
+* Predicts traffic sign categories from uploaded images.
 * Uses a TensorFlow/Keras classification model.
-* Provides a Flask-based image prediction interface.
-* Displays predictions with confidence scores.
+* Processes images using OpenCV.
+* Provides a Flask-based prediction interface.
+* Displays predicted classes with confidence scores.
 
-**Built with:** Python, TensorFlow, Keras, OpenCV, Flask
+**Technology**
 
-**Project:** Add your actual repository link here.
+`Python` `TensorFlow` `Keras` `OpenCV` `Flask`
+
+**Repository:** Add your actual project repository URL here.
 
 ---
 
-### 02 — Personal Developer Portfolio
+### 02 / PERSONAL DEVELOPER PORTFOLIO
 
 **Frontend Development · UI Design**
 
-A personal website showcasing my skills, projects, and development journey.
+A personal website showcasing my technical interests, projects, and development journey.
+
+**Highlights**
 
 * Modern visual design.
 * Interactive user interface.
 * Responsive layouts.
 * Dedicated project and contact sections.
+* Focus on engaging visual experiences.
 
-**Built with:** HTML, CSS, JavaScript
+**Technology**
 
-**Live website:** Add your published portfolio link here.
+`HTML` `CSS` `JavaScript`
+
+**Live website:** Add your published portfolio URL here.
 
 ---
 
-### 03 — PSR Textile Website
+### 03 / PSR TEXTILE WEBSITE
 
-**React · Frontend Engineering**
+**React · Frontend Engineering · UI Design**
 
-A modern textile website focused on premium product presentation and user experience.
+A modern textile website focused on premium product presentation, elegant styling, and interactive browsing experiences.
 
-* Elegant product showcase.
+**Highlights**
+
+* Premium product showcase.
 * Interactive product cards.
 * Refined visual styling.
+* Smooth interface interactions.
 * Responsive website layout.
 
-**Built with:** React, Vite, JavaScript, CSS
+**Technology**
 
-**Project:** Add your actual repository link here.
+`React` `Vite` `JavaScript` `CSS`
+
+**Repository:** Add your actual project repository URL here.
 
 ---
 
-## GitHub Overview
+## DATA ANALYTICS LEARNING JOURNEY
+
+I'm developing my data analytics skills through structured learning and practical exercises.
+
+**Current learning areas**
+
+* Understanding datasets and data types.
+* Working with numerical data using Python and NumPy.
+* Calculating revenue and analyzing business performance.
+* Comparing product and city sales.
+* Identifying patterns and interpreting results.
+* Building a foundation for data visualization and reporting.
+
+**Next steps**
+
+`Pandas` → `SQL` → `Excel` → `Power BI` → `Data Visualization`
+
+*These are planned learning areas, not claims of proficiency.*
+
+---
+
+## CURRENT FOCUS
+
+* Building practical software and web applications.
+* Improving programming and problem-solving skills.
+* Learning Data Analytics through hands-on exercises.
+* Exploring Python, NumPy, and numerical computing.
+* Developing machine learning applications.
+* Improving frontend design and user experience.
+* Publishing projects and documenting my progress.
+
+---
+
+## GITHUB OVERVIEW
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Prithvin-P&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4169E1&icon_color=0047AB&text_color=FFFFFF" alt="GitHub overview"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prithvin-P&show_icons=true&hide_border=true&bg_color=0B0B0F&title_color=4169E1&icon_color=4169E1&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithvin-P&layout=compact&hide_border=true&bg_color=0D1117&title_color=4169E1&text_color=FFFFFF" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithvin-P&layout=compact&hide_border=true&bg_color=0B0B0F&title_color=4169E1&text_color=FFFFFF" alt="Most-used programming languages">
 
 </div>
 
 ---
 
-## Current Focus
+<div align="center">
 
-* Building practical software projects.
-* Improving programming and problem-solving skills.
-* Developing modern web applications.
-* Exploring machine learning and
+<img src="https://capsule-render.vercel.app/api?type=rect&color=173EA5&height=3" width="100%" alt="Blue divider">
+
+### LET'S BUILD SOMETHING MEANINGFUL.
+
+**Software Development · Data Analytics · Artificial Intelligence**
+
+<br>
+
+<a href="https://github.com/Prithvin-P">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-173EA5?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub">
+</a>
+<a href="mailto:prithvinp42@gmail.com">
+  <img src="https://img.shields.io/badge/GET_IN_TOUCH-0B0B0F?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch">
+</a>
+
+<br><br>
+
+<sub>Focused on learning, building, and continuous improvement.</sub>
+
+</div>
