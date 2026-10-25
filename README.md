@@ -155,7 +155,7 @@ A personal portfolio concept designed to showcase my background, projects, and t
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-4169E1?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
 </a>
 
-*Add the repository or live portfolio URL when available.*
+*Add*
 
 ---
 
@@ -181,7 +181,7 @@ A textile website concept with a premium visual identity and an interactive prod
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-4169E1?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
 </a>
 
-*Add the project's actual repository URL when available.*
+*Add*
 
 ---
 
@@ -205,7 +205,7 @@ A project focused on organizing customer information and supporting customer rel
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-4169E1?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
 </a>
 
-*Adjust the description to match the project's actual features and implementation.*
+*Adjust the description*
 
 ---
 
@@ -229,7 +229,7 @@ A project concept focused on collecting and organizing intrusion alerts to make 
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-4169E1?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
 </a>
 
-*Adjust the description to match the project's actual features and implementation.*
+*Adjust the description*
 
 ---
 
@@ -318,14 +318,10 @@ I'm learning Data Analytics from the fundamentals, using practical examples to u
 
 <img src="https://komarev.com/ghpvc/?username=Prithvin-P&style=for-the-badge&color=244CCB&label=PROFILE+VIEWS" alt="Profile views" />
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,35:172554,70:0A1638,100:02040A&height=160&section=footer&animation=twinkling" width="100%" alt="Animated cinematic blue footer" />
-
 ### THANK YOU FOR VISITING
 
 *Creating today. Improving tomorrow.*
 
-**— PRITHVIN P**
+**PRITHVIN P**
 
 </div>
