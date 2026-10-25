@@ -39,13 +39,6 @@ I'm **Prithvin P**, an IT graduate passionate about technology, programming, and
 
 I enjoy exploring different areas of technology, developing projects, and continuously improving my skills.
 
-```text
-NAME       Prithvin P
-BACKGROUND Information Technology
-INTERESTS  Web Development · AI/ML · Data Analytics
-MINDSET    Learn → Build → Improve → Repeat
-```
-
 * 💻 Interested in software and web development
 * 🤖 Exploring artificial intelligence and machine learning
 * 📊 Learning Python, NumPy, and Data Analytics
