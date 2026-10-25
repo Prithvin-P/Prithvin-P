@@ -94,7 +94,7 @@ A deep learning application that classifies traffic signs from images using a tr
 
 `Python` `TensorFlow` `Keras` `OpenCV` `Flask`
 
-**Repository:** Add your actual project repository URL here.
+**Repository:** Add 
 
 ---
 
@@ -116,7 +116,7 @@ A personal website showcasing my technical interests, projects, and development 
 
 `HTML` `CSS` `JavaScript`
 
-**Live website:** Add your published portfolio URL here.
+**Live website:** Add 
 
 ---
 
@@ -138,7 +138,7 @@ A modern textile website focused on premium product presentation, elegant stylin
 
 `React` `Vite` `JavaScript` `CSS`
 
-**Repository:** Add your actual project repository URL here.
+**Repository:** Add 
 
 ---
 ---
@@ -158,7 +158,7 @@ A software project focused on organizing customer information and supporting cus
 
 **Technology:** Add the actual programming languages, frameworks, and database used in your project.
 
-**Repository:** Add your actual GitHub repository URL here.
+**Repository:** Add 
 
 ---
 
@@ -177,7 +177,7 @@ A project focused on collecting and organizing intrusion alerts to make security
 
 **Technology:** Add the actual programming languages, frameworks, and tools used in your project.
 
-**Repository:** Add your actual GitHub repository URL here.
+**Repository:** Add 
 
 ## DATA ANALYTICS LEARNING JOURNEY
 
