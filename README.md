@@ -141,6 +141,43 @@ A modern textile website focused on premium product presentation, elegant stylin
 **Repository:** Add your actual project repository URL here.
 
 ---
+---
+
+### 04 / CUSTOMER RELATIONSHIP MANAGEMENT SYSTEM
+
+**Software Development · Customer Management**
+
+A software project focused on organizing customer information and supporting customer relationship management.
+
+**Project highlights**
+
+* Organizes and manages customer information.
+* Supports structured customer record management.
+* Aims to simplify customer information tracking.
+* Demonstrates practical software development concepts.
+
+**Technology:** Add the actual programming languages, frameworks, and database used in your project.
+
+**Repository:** Add your actual GitHub repository URL here.
+
+---
+
+### 05 / ONLINE INTRUSION ALERT AGGREGATION
+
+**Cybersecurity · Alert Management · Data Processing**
+
+A project focused on collecting and organizing intrusion alerts to make security-related information easier to monitor and review.
+
+**Project highlights**
+
+* Focuses on aggregating intrusion alerts.
+* Organizes security alerts for easier review.
+* Supports monitoring of intrusion-related events.
+* Demonstrates concepts related to security event management.
+
+**Technology:** Add the actual programming languages, frameworks, and tools used in your project.
+
+**Repository:** Add your actual GitHub repository URL here.
 
 ## DATA ANALYTICS LEARNING JOURNEY
 
