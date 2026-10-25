@@ -1,136 +1,176 @@
-<h1 align="center">Hi 👋, I'm Prithvin P</h1>
+<div align="center">
 
-<h3 align="center">Aspiring Software Developer | Web Developer | Python & AI/ML Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:050505,50:0047AB,100:050505&text=PRITHVIN%20P&fontColor=FFFFFF&fontSize=65&fontAlignY=45&desc=SOFTWARE%20DEVELOPER%20%7C%20WEB%20DEVELOPER%20%7C%20AI%2FML&descSize=15&descAlignY=65&animation=fadeIn" width="100%" alt="Prithvin P Cobalt Blue Banner"/>
 
-<p align="center">
-  I build practical projects and explore technologies to solve real-world problems.
-</p>
+<br>
 
-<p align="center">
-  <a href="https://github.com/Prithvin-P">
-    <img src="https://img.shields.io/badge/GitHub-Prithvin--P-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="mailto:prithvinp42@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+### `BUILDING IDEAS. WRITING CODE. CREATING IMPACT.`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Web+Development+Enthusiast;Python+%26+AI%2FML+Explorer;Turning+Ideas+Into+Projects" alt="Animated introduction"/>
+
+<br>
+
+<a href="https://github.com/Prithvin-P">
+<img src="https://img.shields.io/badge/GitHub-Prithvin--P-050505?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+<a href="mailto:prithvinp42@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-0047AB?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
+</a>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
 
-* 🎓 IT Graduate interested in software development.
-* 💻 Interested in web development and Python programming.
+I'm **Prithvin P**, an IT graduate passionate about software development and modern technology.
+
+* 🎓 IT Graduate interested in software engineering.
+* 💻 Exploring web development and application design.
+* 🐍 Developing my Python programming skills.
 * 🤖 Exploring Artificial Intelligence and Machine Learning.
-* 🚦 Developing a Traffic Sign Classification system using Deep Learning.
-* 🌐 Building interactive and responsive web applications.
-* 📚 Learning new technologies and improving my development skills.
+* 🚦 Building a Traffic Sign Classification application using Deep Learning.
+* 🌐 Creating interactive and responsive web experiences.
 * 🎯 Aspiring to contribute to real-world software projects.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ TECH STACK
 
-### Programming Languages
+### PROGRAMMING LANGUAGES
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js" alt="Python, Java, JavaScript"/>
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Python Java JavaScript"/>
 </p>
 
-### Web Development
+### FRONTEND DEVELOPMENT
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite" alt="HTML, CSS, React, Vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" alt="HTML CSS React Vite"/>
 </p>
 
-### Tools & Technologies
+### AI / MACHINE LEARNING
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,flask,tensorflow" alt="Git, GitHub, VS Code, Flask, TensorFlow"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,flask&theme=dark" alt="TensorFlow OpenCV Flask"/>
+</p>
+
+### TOOLS & TECHNOLOGIES
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 FEATURED PROJECTS
 
 ### 🚦 Traffic Sign Classification Using Deep Learning
 
-A machine learning project that classifies traffic signs using a Convolutional Neural Network (CNN).
+<img src="https://img.shields.io/badge/Python-0047AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/TensorFlow-050505?style=flat-square&logo=tensorflow&logoColor=4169E1" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Flask-0047AB?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
 
-**Technologies:** Python, TensorFlow, Keras, OpenCV, Flask
+A deep learning application that classifies traffic signs using a Convolutional Neural Network (CNN).
 
 **Key Features**
 
 * Traffic sign image classification.
 * CNN-based prediction model.
-* Web interface for uploading traffic sign images.
+* Flask web interface for image uploads.
 * Prediction results with confidence scores.
 
-**Repository:** Coming soon.
+**Technologies:** Python · TensorFlow · Keras · OpenCV · Flask
+
+**Repository:** Add your actual project URL here.
+
+---
 
 ### 🌐 Personal Developer Portfolio
 
-A personal website showcasing my skills, projects, and development journey.
+<img src="https://img.shields.io/badge/HTML5-0047AB?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-050505?style=flat-square&logo=css3&logoColor=4169E1" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-0047AB?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
 
-**Technologies:** HTML, CSS, JavaScript
+A personal portfolio showcasing my skills, projects, and development journey.
 
 **Key Features**
 
-* Modern visual design.
-* Interactive animations.
+* Modern dark-themed interface.
+* Interactive animations and visual effects.
 * Responsive layout.
 * Project and contact sections.
 
 **Live Demo:** Coming soon.
 
+---
+
 ### 🧵 PSR Textile Website
 
-A modern textile website focused on elegant design and product presentation.
+<img src="https://img.shields.io/badge/React-0047AB?style=flat-square&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Vite-050505?style=flat-square&logo=vite&logoColor=4169E1" alt="Vite"/>
+<img src="https://img.shields.io/badge/CSS3-0047AB?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 
-**Technologies:** React, Vite, JavaScript, CSS
+A modern textile website focused on premium presentation and an elegant user experience.
 
 **Key Features**
 
 * Luxury-inspired interface.
 * Product showcase.
-* Interactive components.
-* Responsive design.
+* Interactive product cards.
+* Smooth visual effects.
 
-**Repository:** Coming soon.
+**Technologies:** React · Vite · JavaScript · CSS
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prithvin-P&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithvin-P&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
+**Repository:** Add your actual project URL here.
 
 ---
 
-## 🎯 Current Goals
+## 📊 GITHUB ANALYTICS
 
-* Strengthen my programming fundamentals.
-* Build practical web development projects.
-* Improve my Python and machine learning skills.
-* Learn full-stack development.
-* Collaborate on meaningful software projects.
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prithvin-P&show_icons=true&hide_border=true&bg_color=050505&title_color=4169E1&text_color=FFFFFF&icon_color=0047AB&ring_color=4169E1" alt="GitHub Statistics"/>
 
-## 🤝 Connect With Me
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithvin-P&layout=compact&hide_border=true&bg_color=050505&title_color=4169E1&text_color=FFFFFF" alt="Most Used Languages"/>
 
-* **GitHub:** https://github.com/Prithvin-P
-* **Email:** [prithvinp42@gmail.com](mailto:prithvinp42@gmail.com)
-* **LinkedIn:** Add your LinkedIn profile URL when ready.
-* **Portfolio:** Add your website URL after publishing it.
+<br><br>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=Prithvin-P&hide_border=true&background=050505&ring=4169E1&fire=0047AB&currStreakLabel=4169E1&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Contribution Streak"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Learning continuously. Building consistently. Growing through code. 🚀</i>
-</p>
+## 🎯 CURRENT FOCUS
+
+* Strengthening programming fundamentals.
+* Building practical web development projects.
+* Improving Python and Java skills.
+* Exploring AI and Deep Learning.
+* Learning full-stack development.
+* Improving code quality and documentation.
+
+---
+
+## 🤝 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/Prithvin-P">
+<img src="https://img.shields.io/badge/GitHub-PRITHVIN--P-0047AB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
+
+<a href="mailto:prithvinp42@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-050505?style=for-the-badge&logo=gmail&logoColor=4169E1" alt="Email"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0047AB,100:050505&height=3&section=footer" width="100%" alt="Blue footer divider"/>
+
+### `LEARN • BUILD • IMPROVE • REPEAT`
+
+<sub>Designed by Prithvin P | Always learning, always building.</sub>
+
+</div>
