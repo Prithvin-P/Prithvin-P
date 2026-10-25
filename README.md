@@ -2,7 +2,7 @@
 
 # PRITHVIN P
 
-### SOFTWARE DEVELOPMENT · WEB TECHNOLOGIES · DATA ANALYTICS · AI/ML
+### SOFTWARE DEVELOPER · WEB TECHNOLOGY · DATA ANALYTICS · AI/ML
 
 Building practical applications. Exploring data. Creating digital experiences.
 
