@@ -196,8 +196,6 @@ I'm developing my data analytics skills through structured learning and practica
 
 `Pandas` → `SQL` → `Excel` → `Power BI` → `Data Visualization`
 
-*These are planned learning areas, not claims of proficiency.*
-
 ---
 
 ## CURRENT FOCUS
