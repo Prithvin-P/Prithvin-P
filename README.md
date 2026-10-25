@@ -291,16 +291,6 @@ I'm learning Data Analytics from the fundamentals, using practical examples to u
 | 🤖 AI / ML              | Explore intelligent image classification |
 | 📊 Data Analytics       | Learn to extract insights from data      |
 
-<br>
-
-**My philosophy**
-
-### `LEARN.`   `BUILD.`   `EVOLVE.`
-
-<img src="https://img.shields.io/badge/CONSISTENCY-OVER-PERFECTION-172554?style=for-the-badge&labelColor=05070D" alt="Consistency over perfection" />
-
-</div>
-
 ---
 
 ## ◈   07 — CONNECT WITH ME
